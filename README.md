@@ -73,13 +73,8 @@ Based on the insights from the Call Center Performance Dashboard, the following 
   ---
 
   ## 🔗 Data Source
-  https://www.kaggle.com/datasets
-  The dataset was derived from call center operational logs and customer feedback records collected between January–March 2021. It includes:
-- Call Records: Timestamps, agent names, topics, and resolution outcomes.
-- Performance Metrics: Total calls, answered rate, resolution rate, and average answer speed.
-- Customer Feedback: Satisfaction scores linked to agents and topics.
-- Categorization: Calls grouped into five service areas (Streaming, Payment, Technical Support, Admin Support, Contract Related).
-
+  [download Here] https://www.kaggle.com/datasets
+  The dataset was derived from call center operational logs and customer feedback records collected between January–March 2021. 
   
 
 
